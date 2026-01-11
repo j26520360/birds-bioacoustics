@@ -1,6 +1,4 @@
-# 🎈 Blank app template
-
-A simple Streamlit app template for you to modify!
+# Birds bioacoustics
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://birds-bioacoustics.streamlit.app/)
 
