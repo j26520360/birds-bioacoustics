@@ -13,7 +13,6 @@ def main():
         page_icon="🐦",
     )
 
-    st.title("Bioacoustic classification")
     st.header("Bioacoustic classification")
 
     files = st.file_uploader(
