@@ -9,11 +9,12 @@ import streamlit as st
 
 def main():
     st.set_page_config(
-        page_title="Bioacoustics classification",
+        page_title="Bioacoustic classification",
         page_icon="🐦",
     )
 
-    st.title("Bioacoustics classification")
+    st.title("Bioacoustic classification")
+    st.header("Bioacoustic classification")
 
     files = st.file_uploader(
         "Upload",
