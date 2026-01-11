@@ -1,4 +1,4 @@
-bioacoustics-model-zoo[perch]
+bioacoustics-model-zoo[birdnet]
 openpyxl
 pandas
 streamlit
