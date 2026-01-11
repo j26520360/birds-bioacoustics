@@ -8,6 +8,8 @@ import streamlit as st
 
 
 def main():
+    st.title("Bioacoustics classification")
+
     files = st.file_uploader(
         "Upload",
         type="wav",
