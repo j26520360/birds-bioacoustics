@@ -13,6 +13,8 @@ def main():
         page_icon="🐦",
     )
 
+    st.title("Bioacoustics classification")
+
     files = st.file_uploader(
         "Upload",
         type="wav",
