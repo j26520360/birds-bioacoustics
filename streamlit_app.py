@@ -53,7 +53,7 @@ def main():
     container.download_button(
         "Download",
         data=data if run else "",
-        file_name="birds.xlsx",
+        file_name="data.xlsx",
         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
         on_click="ignore",
         type="primary",
