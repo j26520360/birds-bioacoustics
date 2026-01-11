@@ -57,7 +57,7 @@ def main():
         os.remove(sample)
 
 
-@st.cache_resource
+@st.cache_resource(show_spinner=False)
 def get_model():
     return bmz.BirdNET()
 
