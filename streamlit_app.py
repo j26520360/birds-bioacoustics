@@ -59,7 +59,7 @@ def main():
 
 @st.cache_resource
 def get_model():
-    return bmz.BirdNet()
+    return bmz.BirdNET()
 
 
 if __name__ == "__main__":
