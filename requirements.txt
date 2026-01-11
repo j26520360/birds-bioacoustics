@@ -1,1 +1,4 @@
+bioacoustics-model-zoo[perch]
+openpyxl
+pandas
 streamlit
